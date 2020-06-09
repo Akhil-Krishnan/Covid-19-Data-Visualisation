@@ -1,4 +1,4 @@
-## Novel coronavirus (COVID-19)
+## Novel Corona Virus (COVID-19)
 
 ![Image of Wordmap](https://github.com/Akhil-Krishnan/Covid-19-Data-Visualization-in-GoogleMap/blob/master/Images/map.png)
 
