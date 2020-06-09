@@ -5,11 +5,10 @@ Data visualizing in line graph and Map
 
 You will get the dataset from https://github.com/CSSEGISandData/COVID-19 github account.
 
-###Libraries###
-
- Markup : * seaborn
-          * plotly
-          * gmap
-          * folium
+### Libraries ###
+  * seaborn
+  * plotly
+  * gmap
+  * folium
     
     
