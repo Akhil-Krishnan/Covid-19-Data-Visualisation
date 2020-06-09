@@ -1,0 +1,1 @@
+You can refer for the updated global covid data in this github account. https://github.com/CSSEGISandData/COVID-19 
